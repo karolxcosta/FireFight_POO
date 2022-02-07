@@ -1,5 +1,0 @@
-PlayerName: Player1 - Score: 1150
-PlayerName: Player2 - Score: 1100
-PlayerName: Player3 - Score: 1050
-PlayerName: Player4 - Score: 950
-PlayerName: Player5 - Score: 950
